@@ -39,6 +39,7 @@ body {
 }
 
 .wrapper {
+  max-width: 1755px;
   display: flex;
   flex-direction: column;
   justify-content: center;
@@ -52,6 +53,7 @@ body {
   justify-content: space-around;
   flex-wrap: wrap;
   margin-top: 30px;
+  width: 100%;
 }
 
 .card {
@@ -110,5 +112,11 @@ body {
     &::after {
       content: "  ⇒";
     }
+  }
+}
+
+@media screen and (max-width: 870px) {
+  .card {
+    width: 350px;
   }
 }
