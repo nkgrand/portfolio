@@ -1,0 +1,70 @@
+{
+  "items": [
+    {
+      "link": "https://nkgrand.github.io/layout_miami/",
+      "imgUrl": "./img/miami.png",
+      "type": "Landing page",
+      "description": "Created with pure <b>HTML, SCSS, JS</b>"
+    },
+    {
+      "link": "https://nkgrand.github.io/layout_creativeBakery/",
+      "imgUrl": "./img/creative_bakkery.png",
+      "type": "Landing page",
+      "description": "Created with pure <b>HTML, SCSS, JS</b>"
+    },
+    {
+      "link": "https://pokemonsgame2021.netlify.app/",
+      "imgUrl": "./img/pokemon.png",
+      "type": "SPA",
+      "description": "Created with <b>React.js</b>"
+    },
+    {
+      "link": "https://star-wars2020.netlify.app/",
+      "imgUrl": "./img/starwars.png",
+      "type": "SPA",
+      "description": "Created with <b>React.js</b>"
+    },
+    {
+      "link": "https://info-box.netlify.app/",
+      "imgUrl": "./img/infoBox.png",
+      "type": "SPA",
+      "description": "Created with <b>React.js</b>"
+    },
+    {
+      "link": "https://nkgrand.github.io/stopwatch/",
+      "imgUrl": "./img/stopwatch.png",
+      "type": "Stopwatch",
+      "description": "Created with <b>SCSS</b>"
+    },
+    {
+      "link": "https://nkgrand.github.io/movie-list/",
+      "imgUrl": "./img/movieList.png",
+      "type": "Movie list from JSON",
+      "description": "Created with pure <b>JS</b>"
+    },
+    {
+      "link": "https://nkgrand.github.io/dvir-top/",
+      "imgUrl": "./img/dvir.jpg",
+      "type": "Landing page",
+      "description": "Created with pure <b>HTML, CSS, JS</b>"
+    },
+    {
+      "link": "https://nkgrand.github.io/nutra-gold/",
+      "imgUrl": "./img/nutra.jpg",
+      "type": "Landing page",
+      "description": "Created with pure <b>HTML, CSS, JS</b>"
+    },
+    {
+      "link": "https://nkgrand.github.io/hanna_bakes/",
+      "imgUrl": "./img/cake.png",
+      "type": "Landing page",
+      "description": "Created with pure <b>HTML, CSS, JS</b>"
+    },
+    {
+      "link": "https://nkgrand.github.io/dropka.pro/",
+      "imgUrl": "./img/dropka_new.png",
+      "type": "Landing page",
+      "description": "Created with pure <b>HTML, CSS, JS</b>"
+    }
+  ]
+}
