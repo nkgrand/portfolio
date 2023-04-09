@@ -1,5 +1,4 @@
-{
-  "items": [
+[
     {
       "link": "https://nkgrand.github.io/layout_miami/",
       "imgUrl": "./img/miami.png",
@@ -67,4 +66,3 @@
       "description": "Created with pure <b>HTML, CSS, JS</b>"
     }
   ]
-}
